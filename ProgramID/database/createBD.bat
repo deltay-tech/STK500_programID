@@ -1,0 +1,2 @@
+python createDB.py
+pause

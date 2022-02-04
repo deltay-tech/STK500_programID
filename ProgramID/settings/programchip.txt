@@ -1,0 +1,1 @@
+C:\Program Files (x86)\Atmel\AVR Tools\STK500\Stk500.exe -cUSB -dATmega168PA -s -if?flash.hex -ie?eeprom.hex -e -pb -vb -fDE62 -lFF -EFF -FDE62 -LFF -GFF -ms
