@@ -23,7 +23,7 @@ PyQt5, IntelHex, pyinstaller
 
 ## Build
 Prepare pack release:
-Run |[ProgramID\pack2exe.bat](ProgramID\pack2exe.bat)) |
+Run |[ProgramID/pack2exe.bat](ProgramID/pack2exe.bat)) |
 
 ## Run
 Run after pack:
